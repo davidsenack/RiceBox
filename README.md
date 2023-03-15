@@ -2,6 +2,8 @@
 
 ![A beautiful ArcoLARB screenshot](img/pic-full-230315-0834-54.png)
 
+### About
+
 Don't want to deal with installing Arch Linux? Don't want to spend forever configuring every little aspect of your linux build? Want to post screenshots to r/unixporn? Then ArcoLARBS is for you! 
 
 ArcoLARBS is an easy to install linux operating system (well, not technically but who cares, right?). Built on ArcoLinux (a derivative of Arch) and configured using Luke Smith's Auto-Bootstrapping Script (LARBS), ArcoLARBS is almost entirely the work of other people. But I'm lazy and I don't want to reinvent the wheel (read: reinstall and configure Arch for the hunderth time) and so here we are.
@@ -53,7 +55,13 @@ sh larbs.sh
 6. Reboot the system and enjoy your life as an ArcoLARBer!
 
 
+### Post-Install (Optional)
 
+
+### Key Bindings
+
+
+### Links 
 
 
  
