@@ -9,6 +9,13 @@
 2. [Installation](#Installation)
 3. [Post-Install](#Post-Install (Optional))
 4. [Keybindings](#Keybindings)
+    1. [Basic Commands](#Basic Commands)
+    2. [Window Layouts](#Window Layouts)
+    3. [Basic Programs](#Basic Programs)
+    4. [Tags/Workspaces](#Tags/Workspaces)
+    5. [System](#System)
+    6. [Audio](#Audio)
+    7. [Recording](#Recording)
 5. [Links](#Links)
 <br>
 
