@@ -42,7 +42,7 @@ dd if=arcolinuxd-v23.03.01-x86_64.iso of=/dev/sdb
 
 <br>
 
-3. Follow the ArcoLinuxD install directions [here](https://www.arcolinuxd.com/installation/) or [here](https://www.youtube.com/watch?v=B6TpyG2tIV0).
+3. Follow the ArcoLinuxD install directions at [www.arcolinuxd.com](https://www.arcolinuxd.com/installation/) or [watch this video](https://www.youtube.com/watch?v=B6TpyG2tIV0).
 
 <br>
 
