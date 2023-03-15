@@ -7,7 +7,7 @@
 
 1. [Introduction](#Introduction)
 2. [Installation](#Installation)
-3. [Post-Install](#Post-Install(Optional))
+3. [Post-Install](#Post-InstallOptional)
 4. [Keybindings](#Keybindings)
     1. [Basic Commands](#BasicCommands)
     2. [Window Layouts](#WindowLayouts)
