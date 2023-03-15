@@ -105,30 +105,43 @@ Default keybindings per Luke's Auto-Ricing Bootloader Script. Checkout [LARBS do
 
 - `Mod+Enter` – Spawn terminal (the default terminal is st; run man st for more.)
 <br>
+
 - `Mod+q` – Close window 
 <br>
+
 - `Mod+d` – dmenu (For running commands or programs without shortcuts) 
 <br>
+
 - `Mod+j/k` – Cycle thru windows by their stack order 
 <br>
+
 - `Mod+Space` – Make selected window the master (or switch master with 2nd)
 <br>
+
 - `Mod+h/l` – Change width of master window 
 <br>
+
 - `Mod+z/x` – Increase/decrease gaps (may also hold Mod and scroll mouse) 
 <br>
+
 - `Mod+a` – Toggle gaps 
 <br>
+
 - `Mod+A` – Gaps return to default values (may also hold Mod and middle click) 
 <br>
+
 - `Mod+Shift+Space` – Make a window float (move and resize with Mod+left/right click). 
 <br>
+
 - `Mod+s` – Make/unmake a window “sticky” (follows you from tag to tag) 
 <br>
+
 - `Mod+b` – Toggle statusbar (may also middle click on desktop) 
 <br>
+
 - `Mod+v` – Jump to master window 
 <br>
+
 
 ### Links 
 
