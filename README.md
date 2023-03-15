@@ -212,7 +212,7 @@ are based on their exact times.
 - [Luke's YouTube channel](https://youtube.com/lukesmithxyz)
 - [LARBS Github Page](https://github.com/lukesmithxyz/voidrice)
 
-### ArcoLinux | Arch Linux
+### ArcoLinux
 
 - [ArcoLinux Homepage](https://arcolinux.com/)
 - [ArcoLinuxD Downloads](https://sourceforge.net/projects/arcolinux/files/ArcoLinuxD/)
@@ -220,6 +220,7 @@ are based on their exact times.
 - [DistroTube's ArcoLinux Review](https://www.youtube.com/watch?v=J5mkCQ5YnH4)
 <br>
 
+### Arch Linux
 - [Arch Linux Homepage](https://archlinux.org/)
 - [Arch Linux Wiki](https://wiki.archlinux.org/)
 - [Upgrading Arch/Arco](https://wiki.archlinux.org/title/System_maintenance#Upgrading_the_system)
