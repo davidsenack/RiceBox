@@ -103,9 +103,9 @@ wal -i /path/to/wallpaper.jpg
 
 Default keybindings per Luke's Auto-Ricing Bootloader Script. Checkout [LARBS docs](https://larbs.xyz/larbs-dwm.pdf) for more info. 
 
-• `Mod+Enter` – Spawn terminal (the default terminal is st; run man st for more.)
-• `Mod+q` – Close window
-• `Mod+d` – dmenu (For running commands or programs without shortcuts)
+`Mod+Enter` – Spawn terminal (the default terminal is st; run man st for more.)
+`Mod+q` – Close window
+`Mod+d` – dmenu (For running commands or programs without shortcuts)
 
 <br>
 
