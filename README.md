@@ -6,13 +6,17 @@ ArcoLARBS is an easy to install linux operating system (well, not technically bu
 
 ArcoLARBS can be installed in about 10 minutes, customized in about five, and before you know it you'll be posting those sweet screenshots to r/unixporn. Because that's why we're really here, right?
 
+### That Sweet r/unixporn Screenshot
+
+![A beautiful ArcoLARB screenshot](img/pic-full-230315-0834-54.png)
+
 ### Installation
 
 1. Download the ArcoLinuxD iso image:
 
 ```
 
-$ wget https://sourceforge.net/projects/arcolinux/files/ArcoLinuxD/arcolinuxd-v23.03.01-x86_64.iso/download
+wget https://sourceforge.net/projects/arcolinux/files/ArcoLinuxD/arcolinuxd-v23.03.01-x86_64.iso/download
 
 ```
 
@@ -21,19 +25,19 @@ $ wget https://sourceforge.net/projects/arcolinux/files/ArcoLinuxD/arcolinuxd-v2
 
 ```
  
-$ dd if=arcolinuxd-v23.03.01-x86_64.iso of=/dev/sdb
+dd if=arcolinuxd-v23.03.01-x86_64.iso of=/dev/sdb
 
 ```
 
 
-3. Follow the ArcoLinuxD install directions [here]s://www.arcolinuxd.com/installation/) or [here](https://www.youtube.com/watch?v=B6TpyG2tIV0)
+3. Follow the ArcoLinuxD install directions [here](https://www.arcolinuxd.com/installation/) or [here](https://www.youtube.com/watch?v=B6TpyG2tIV0)
 
 
 4. After install, update the system.
 
 ```
 
-$ sudo pacman -Syyu
+sudo pacman -Syyu
 
 ```
 
@@ -42,8 +46,8 @@ $ sudo pacman -Syyu
 
 ```
 
-$ curl -LO larbs.xyz/larbs.sh
-$ sh larbs.sh
+curl -LO larbs.xyz/larbs.sh
+sh larbs.sh
 
 ```
 
