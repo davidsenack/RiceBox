@@ -2,7 +2,16 @@
 
 ![A beautiful ArcoLARB screenshot](img/pic-full-230315-0834-54.png)
 
-### About
+### Table of Contents
+
+1. [Introduction](#Introduction)
+2. [Installation](#Installation)
+3. [Post-Install](#Post-Install)
+4. [Keybindings](#Keybindings)
+5. [Links](#Links)
+
+
+### Introduction
 
 Don't want to deal with installing [Arch Linux](https://archlinux.org/)? Don't want to spend [forever configuring](https://www.youtube.com/watch?v=gCRzng7LsQI) every little aspect of your Linux build? Want to post screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/)? Then ArcoLARBS is for you! 
 
