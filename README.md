@@ -103,19 +103,19 @@ wal -i /path/to/wallpaper.jpg
 
 Default keybindings per Luke's Auto-Ricing Bootloader Script. Checkout [LARBS docs](https://larbs.xyz/larbs-dwm.pdf) for more info. 
 
--`Mod+Enter` – Spawn terminal (the default terminal is st; run man st for more.)
--`Mod+q` – Close window
--`Mod+d` – dmenu (For running commands or programs without shortcuts)
--`Mod+j/k` – Cycle thru windows by their stack order
--`Mod+Space` – Make selected window the master (or switch master with 2nd)
--`Mod+h/l` – Change width of master window
--`Mod+z/x` – Increase/decrease gaps (may also hold Mod and scroll mouse)
--`Mod+a` – Toggle gaps
--`Mod+A` – Gaps return to default values (may also hold Mod and middle click)
--`Mod+Shift+Space` – Make a window float (move and resize with Mod+left/right click).
--`Mod+s` – Make/unmake a window “sticky” (follows you from tag to tag)
--`Mod+b` – Toggle statusbar (may also middle click on desktop)
--`Mod+v` – Jump to master window
+- `Mod+Enter` – Spawn terminal (the default terminal is st; run man st for more.)
+- `Mod+q` – Close window
+- `Mod+d` – dmenu (For running commands or programs without shortcuts)
+- `Mod+j/k` – Cycle thru windows by their stack order
+- `Mod+Space` – Make selected window the master (or switch master with 2nd)
+- `Mod+h/l` – Change width of master window
+- `Mod+z/x` – Increase/decrease gaps (may also hold Mod and scroll mouse)
+- `Mod+a` – Toggle gaps
+- `Mod+A` – Gaps return to default values (may also hold Mod and middle click)
+- `Mod+Shift+Space` – Make a window float (move and resize with Mod+left/right click).
+- `Mod+s` – Make/unmake a window “sticky” (follows you from tag to tag)
+- `Mod+b` – Toggle statusbar (may also middle click on desktop)
+- `Mod+v` – Jump to master window
 
 <br>
 
