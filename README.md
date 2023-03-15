@@ -57,8 +57,29 @@ sh larbs.sh
 
 ### Post-Install (Optional)
 
+Adding a custom wallpaper and corresponding colorscheme is simple with ArcoLARB.
 
-### Key Bindings
+1. Download a wallpaper and set it as the background. Replace 'wallpaper.jpg' with the appropriate links. 
+
+```
+
+wget wallpaper.jpg 
+setbg /path/to/wallpaper.jpg
+
+```
+
+2. To generate a custom colorscheme based on your wallpaper, install and run `wal`:
+
+```
+
+sudo pacman -S python-pywal
+wal -i /path/to/wallpaper.jpg
+
+```
+
+3. Enjoy your new wallpaper and colorscheme!
+
+### Keybindings
 
 
 ### Links 
