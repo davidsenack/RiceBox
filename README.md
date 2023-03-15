@@ -3,7 +3,7 @@
 ![A beautiful ArcoLARB screenshot](img/pic-full-230315-0834-54.png)
 <br>
 
-### Table of Contents
+## Table of Contents
 
 1. [Introduction](#Introduction)
 2. [Installation](#Installation)
@@ -203,8 +203,25 @@ are based on their exact times.
 - `Mod+ScrollLock` – Toggle screenkey (if installed) to show keypresses
 <br>
 
-### Links 
+## Links 
 
+### LARBS
+
+- [Luke's Auto-Rice Bootstrapping Scripts (LARBS](https://larbs.xyz/)
+- [A Friendly Guide to LARBS](https://larbs.xyz/larbs-dwm.pdf)
+- [Luke's YouTube channel](https://youtube.com/lukesmithxyz)
+- [LARBS Github Page](https://github.com/lukesmithxyz/voidrice)
+
+### ArcoLinux | Arch Linux
+
+- [ArcoLinux Homepage](https://arcolinux.com/)
+- [ArcoLinuxD Downloads](https://sourceforge.net/projects/arcolinux/files/ArcoLinuxD/)
+- [Erik Dubois ArcoLinuxD Base Install Video](https://www.youtube.com/watch?v=B6TpyG2tIV0)
+- [DistroTube's ArcoLinux Review](https://www.youtube.com/watch?v=J5mkCQ5YnH4)
+<br>
+- [Arch Linux Homepage](https://archlinux.org/)
+- [Arch Linux Wiki](https://wiki.archlinux.org/)
+- [Upgrading Arch/Arco](https://wiki.archlinux.org/title/System_maintenance#Upgrading_the_system)
 
  
 
