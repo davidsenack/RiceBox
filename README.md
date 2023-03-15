@@ -46,7 +46,11 @@ sh larbs.sh
 ```
 
 
-6. Reboot the system and enjoy your life as an ArcoLARBer!
+6. Reboot the system:
+
+```
+sudo reboot now
+```
 
 
 ### Post-Install (Optional)
@@ -70,8 +74,6 @@ sudo pacman -S python-pywal
 ```
 wal -i /path/to/wallpaper.jpg
 ```
-
-3. Enjoy your new wallpaper and colorscheme!
 
 ### Keybindings
 
