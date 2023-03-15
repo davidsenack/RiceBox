@@ -19,6 +19,8 @@ ArcoLARBS is an easy to install linux operating system (well, not technically an
 
 ArcoLARBS can be installed in about 20 minutes, customized in about five, and before you know it you'll be posting those sweet screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/). Because that's why we're really here, right?
 
+<br>
+
 ### Installation
 
 1. Download the ArcoLinuxD iso image:
@@ -61,6 +63,7 @@ sh larbs.sh
 sudo reboot now
 ```
 
+<br>
 
 ### Post-Install (Optional)
 
@@ -84,8 +87,11 @@ sudo pacman -S python-pywal
 wal -i /path/to/wallpaper.jpg
 ```
 
+<br>
+
 ### Keybindings
 
+<br>
 
 ### Links 
 
