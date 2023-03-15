@@ -32,6 +32,7 @@ ArcoLARBS can be installed in about 20 minutes, customized in about five, and be
 wget https://sourceforge.net/projects/arcolinux/files/ArcoLinuxD/arcolinuxd-v23.03.01-x86_64.iso/download
 ```
 
+<br>
 
 2. Write the iso image to a bootable media device. In this case, we'll be using the Linux utility `dd`. Make sure to substitute `of=/dev/sdb` with the correct block device! 
 
@@ -39,9 +40,11 @@ wget https://sourceforge.net/projects/arcolinux/files/ArcoLinuxD/arcolinuxd-v23.
 dd if=arcolinuxd-v23.03.01-x86_64.iso of=/dev/sdb
 ```
 
+<br>
 
 3. Follow the ArcoLinuxD install directions [here](https://www.arcolinuxd.com/installation/) or [here](https://www.youtube.com/watch?v=B6TpyG2tIV0).
 
+<br>
 
 4. After install, update the system:
 
@@ -49,6 +52,7 @@ dd if=arcolinuxd-v23.03.01-x86_64.iso of=/dev/sdb
 sudo pacman -Syyu
 ```
 
+<br>
 
 5. Install [Luke's Auto-Rice Bootstrapping Scripts (LARBS)](https://larbs.xyz). Simply download and run the script and follow the instructions in the installer:
 
@@ -59,6 +63,7 @@ curl -LO larbs.xyz/larbs.sh
 sh larbs.sh
 ```
 
+<br>
 
 6. Reboot the system:
 
@@ -80,6 +85,8 @@ wget wallpaper.jpg
 ``` 
 setbg /path/to/wallpaper.jpg
 ```
+
+<br>
 
 2. To generate a custom colorscheme based on your wallpaper, install and run `wal`:
 
