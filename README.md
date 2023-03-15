@@ -219,6 +219,7 @@ are based on their exact times.
 - [Erik Dubois ArcoLinuxD Base Install Video](https://www.youtube.com/watch?v=B6TpyG2tIV0)
 - [DistroTube's ArcoLinux Review](https://www.youtube.com/watch?v=J5mkCQ5YnH4)
 <br>
+
 - [Arch Linux Homepage](https://archlinux.org/)
 - [Arch Linux Wiki](https://wiki.archlinux.org/)
 - [Upgrading Arch/Arco](https://wiki.archlinux.org/title/System_maintenance#Upgrading_the_system)
