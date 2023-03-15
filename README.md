@@ -19,24 +19,24 @@ wget https://sourceforge.net/projects/arcolinux/files/ArcoLinuxD/arcolinuxd-v23.
 ```
 
 
-2. Write the iso image to a bootable media device. In this case, we'll be using the linux utility `dd`. Make sure to substitute `of=/dev/sdb` with the correct block device! 
+2. Write the iso image to a bootable media device. In this case, we'll be using the Linux utility `dd`. Make sure to substitute `of=/dev/sdb` with the correct block device! 
 
 ```
 dd if=arcolinuxd-v23.03.01-x86_64.iso of=/dev/sdb
 ```
 
 
-3. Follow the ArcoLinuxD install directions [here](https://www.arcolinuxd.com/installation/) or [here](https://www.youtube.com/watch?v=B6TpyG2tIV0)
+3. Follow the ArcoLinuxD install directions [here](https://www.arcolinuxd.com/installation/) or [here](https://www.youtube.com/watch?v=B6TpyG2tIV0).
 
 
-4. After install, update the system.
+4. After install, update the system:
 
 ```
 sudo pacman -Syyu
 ```
 
 
-5. Install Luke's Auto-Rice Bootstrapping Scripts (LARBS). Simply download and run the script and follow the instructions in the installer.
+5. Install [Luke's Auto-Rice Bootstrapping Scripts (LARBS)](https://larbs.xyz). Simply download and run the script and follow the instructions in the installer:
 
 ```
 curl -LO larbs.xyz/larbs.sh
@@ -55,9 +55,9 @@ sudo reboot now
 
 ### Post-Install (Optional)
 
-Adding a custom wallpaper and corresponding colorscheme is simple with ArcoLARB.
+Adding a custom wallpaper and corresponding colorscheme is simple with ArcoLARBS.
 
-1. Download a wallpaper and set it as the background. Replace 'wallpaper.jpg' with the appropriate links. 
+1. Download a wallpaper and set it as the background. Replace 'wallpaper.jpg' with the appropriate links: 
 
 ```
 wget wallpaper.jpg
