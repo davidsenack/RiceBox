@@ -2,6 +2,8 @@
 
 ![A beautiful ArcoLARB screenshot](img/pic-full-230315-0834-54.png)
 
+<br>
+
 ### Table of Contents
 
 1. [Introduction](#Introduction)
@@ -10,6 +12,7 @@
 4. [Keybindings](#Keybindings)
 5. [Links](#Links)
 
+<br>
 
 ### Introduction
 
