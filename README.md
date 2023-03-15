@@ -133,6 +133,85 @@ Default keybindings per Luke's Auto-Ricing Bootloader Script. Checkout [LARBS do
 - `Mod+i` – Center the master window
 - `Mod+I` – Center and float the master window
 - `Mod+o/O` – Increase/decrease the number of master windows
+<br>
+
+### Basic Programs
+
+- `Mod+r` – lf (file browser/manager)
+- `Mod+R` – htop (task manager, system monitor that Redditors use to look cool)
+- `Mod+e` – neomutt (email) – Must be first configured by running mw add.
+- `Mod+E` – abook (contacts, addressbook, emails)
+- `Mod+m` – ncmpcpp (music player)
+- `Mod+w` – Web browser (LibreWolf by default)
+- `Mod+W` – nmtui (for connecting to wireless internet)
+- `Mod+n` – vimwiki (for notes)
+- `Mod+N` – newsboat (RSS feed reader)
+- `Mod+F4` – pulsemixer (audio system control)
+- `Mod+Shift+Enter` – Show/hide dropdown terminal
+- `Mod+’` – Show/hide dropdown calculator
+- `Mod+D` – passmenu (password manager)
+<br>
+
+### Tags/Workspaces
+
+There are nine tags, active tags are highlighted in the top left.
+- `Mod+(Number)` – Go to that number tag
+- `Mod+Shift+(Number)` – Send window to that tag
+- `Mod+Tab` – Go to previous tag (may also use \ for Tab)
+- `Mod+g` – Go to left tag (hold shift to send window there)
+- `Mod+;` – Go to right tag (hold shift to send window there)
+- `Mod+Left/Right` – Go to another display
+- `Mod+Shift+Left/+Right` – Move window to another display
+<br>
+
+### System
+
+- `Mod+BackSpace` –Choose to lock screen, logout, shutdown, reboot, etc.
+- `Mod+F1` – Show this document
+- `Mod+F2` – Watch tutorial videos on a subject
+- `Mod+F3` – Select screen/display to use
+- `Mod+F4` – pulsemixer (audio control)
+- `Mod+F6` – Transmission torrent client (not installed by default)
+- `Mod+F7` – Toggle on/off transmission client via dmenu
+- `Mod+F8` – Check mail, if mutt-wizard is configured. (Run mw add to set up.)
+- `Mod+F9` – Mount a USB drive/hard drive or Android
+- `Mod+F10` – Unmount a non-essential drive or Android
+- `Mod+F11` – View webcam
+- `Mod+F12` – Rerun keyboard mapping scripts if new keyboard is attached
+- `Mod+‘` – Select an emoji to copy to clipboard
+- `Mod+Insert` – Show contents of clipboard/primary selection
+<br>
+
+### Audio
+
+I use ncmpcpp as a music player, which is a front end for mpd.
+- `Mod+m` – ncmpcpp, the music player
+- `Mod+.` – Next track
+- `Mod+,` – Previous track
+- `Mod+<` – Restart track
+- `Mod+>` – Toggle playlist looping
+- `Mod+p` – Toggle pause
+- `Mod+p` – Force pause music player daemon and all mpv videos
+- `Mod+M` – Mute all audio
+- `Mod+-` – Decrease volume (holding shift increases amount)
+- `Mod++` – Increase volume (holding shift increases amount)
+- `Mod+[` – Back 10 seconds (holding shift moves by one minute)
+- `Mod+]` – Forward 10 seconds (holding shift moves by one minute)
+- `Mod+F4` – pulsemixer (general audio/volume sink/source control)
+<br>
+
+### Recording
+
+I use maim and ffmpeg to make different recordings of the desktop and audio. All of these
+recording shortcuts will output into ˜, and will not overwrite previous recordings as their names
+are based on their exact times.
+- `PrintScreen` – Take a screenshot
+- `Shift+PrintScreen` – Select area to screenshot
+- `Mod+PrintScreen` – Opens dmenu menu to select kind of audio/video recording
+- `Mod+Delete` – Kills any recording started in the above way
+- `Mod+Shift+c` – Toggles a webcam in the bottom right for screencasting
+- `Mod+ScrollLock` – Toggle screenkey (if installed) to show keypresses
+<br>
 
 ### Links 
 
