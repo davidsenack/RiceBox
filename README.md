@@ -12,20 +12,25 @@ ArcoLARBS can be installed in about 10 minutes, customized in about five, and be
 
 ` $ wget https://sourceforge.net/projects/arcolinux/files/ArcoLinuxD/arcolinuxd-v23.03.01-x86_64.iso/download `
 
+
 2. Write the iso image to a bootable media device. In this case, we'll be using the linux utility `dd`. Make sure to substitute `of=/dev/sdb` with the correct block device! 
 
 ` $ dd if=arcolinuxd-v23.03.01-x86_64.iso of=/dev/sdb `
 
+
 3. Follow the ArcoLinuxD install directions [here]s://www.arcolinuxd.com/installation/)
+
 
 4. After install, update the system.
 
 ` $ sudo pacman -Syyu `
 
+
 5. Install Luke's Auto-Rice Bootstrapping Scripts (LARBS). Simply download and run the script and follow the instructions in the installer.
 
 ` $ curl -LO larbs.xyz/larbs.sh `
 ` $ sh larbs.sh `
+
 
 6. Reboot the system and enjoy your life as an ArcoLARBer!
 
