@@ -1,4 +1,4 @@
-# ArcoLARBS
+# RiceBox
 
 ![A beautiful ArcoLARB screenshot](img/pic-full-230315-0834-54.png)
 <br>
@@ -21,11 +21,11 @@
 
 ## Introduction
 
-Don't want to deal with installing [Arch Linux](https://archlinux.org/)? Don't want to spend [forever configuring](https://www.youtube.com/watch?v=gCRzng7LsQI) every little aspect of your Linux build? Want to post screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/)? Then ArcoLARBS is for you! 
+Don't want to deal with installing [Arch Linux](https://archlinux.org/)? Don't want to spend [forever configuring](https://www.youtube.com/watch?v=gCRzng7LsQI) every little aspect of your Linux build? Want to post screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/)? Then RiceBox is for you! 
 
-ArcoLARBS is an easy to install linux operating system (well, not technically an operating system, but who cares, right?). Built on [ArcoLinux](https://arcolinux.com/) (a derivative of [Arch](https://archlinux.org/)) and configured using [Luke Smith's Auto-Bootstrapping Script (LARBS)](https://larbs.xyz/), ArcoLARBS is almost entirely the work of other people. But I'm lazy and I don't want to reinvent the wheel (read: reinstall and configure Arch for the hunderdth time), so here we are.
+RiceBox is an easy to install linux operating system (well, not technically an operating system, but who cares, right?). Built on [ArcoLinux](https://arcolinux.com/) (a derivative of [Arch](https://archlinux.org/)) and configured using [Luke Smith's Auto-Bootstrapping Script (LARBS)](https://larbs.xyz/), RiceBox is almost entirely the work of other people. But I'm lazy and I don't want to reinvent the wheel (read: reinstall and configure Arch for the hunderdth time), so here we are.
 
-ArcoLARBS can be installed in about 20 minutes, customized in about five, and before you know it you'll be posting those sweet screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/). Because that's why we're really here, right?
+RiceBox can be installed in about 20 minutes, customized in about five minutes, and before you know it you'll be posting those sweet screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/). Because that's why we're really here, right?
 <br>
 
 ## Installation
@@ -69,7 +69,7 @@ sudo reboot now
 
 ## Post-Install (Optional)
 
-Adding a custom wallpaper and corresponding colorscheme is simple with ArcoLARBS.
+Adding a custom wallpaper and corresponding colorscheme is simple with RiceBox.
 
 1. Download a wallpaper and set it as the background. Replace 'wallpaper.jpg' with the appropriate links: 
 ```
