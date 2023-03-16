@@ -71,18 +71,9 @@ sudo reboot now
 
 Adding a custom wallpaper and corresponding colorscheme is simple with RiceBox.
 
-1. Download a wallpaper and set it as the background. Replace 'wallpaper.jpg' with the appropriate links: 
+1. To generate a custom colorscheme based on your wallpaper, install `feh` and `python-pywal` and run `wal`:
 ```
-wget wallpaper.jpg
-```
-``` 
-setbg /path/to/wallpaper.jpg
-```
-<br>
-
-2. To generate a custom colorscheme based on your wallpaper, install and run `wal`:
-```
-sudo pacman -S python-pywal
+sudo pacman -S python-pywal feh
 ```
 ```
 wal -i /path/to/wallpaper.jpg
