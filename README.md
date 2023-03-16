@@ -23,9 +23,11 @@
 
 Don't want to deal with installing [Arch Linux](https://archlinux.org/)? Don't want to spend [forever configuring](https://www.youtube.com/watch?v=gCRzng7LsQI) every little aspect of your Linux build? Want to post screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/)? Then RiceBox is for you! 
 
-RiceBox is an easy to install linux operating system (well, not technically an operating system, but who cares, right?). Built on [ArcoLinux](https://arcolinux.com/) (a derivative of [Arch](https://archlinux.org/)) and configured using [Luke Smith's Auto-Bootstrapping Script (LARBS)](https://larbs.xyz/), RiceBox is almost entirely the work of other people. But I'm lazy and I don't want to reinvent the wheel (read: reinstall and configure Arch for the hunderdth time), so here we are.
+RiceBox is an easy to install linux operating system (well, technically a set of configuration scripts on top of an OS). Built on [ArcoLinux](https://arcolinux.com/) (a derivative of [Arch](https://archlinux.org/)) and configured using [Luke Smith's Auto-Rice Bootstrapping Scripts (LARBS)](https://larbs.xyz/), RiceBox is almost entirely the work of other people. But I'm lazy and don't want to reinvent the wheel (read: reinstall and configure Arch for the hunderdth time), so here we are.
 
-RiceBox can be installed in about 20 minutes, customized in about five minutes, and before you know it you'll be posting those sweet screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/). Because that's why we're really here, right?
+So what's the point of all of this? I grew tired of installing various Linux distros from the ground up and spending hours configuring everything over and over. It's fun for a while but I just want a system that works and has some advanced workflow options pre-configured. Sure, I could just save my dotfiles to Github or something like that, but I wanted something even more simple. 
+
+So, how is this for simplicity: ArcoLinuxD is a minimal base image that uses the Calamares installer and can be installed in about 15 minutes. Then you update the base system, install a few packages and run LARBS (which includes an easy to use installer of its own). Finally, you can choose from one of our preconfigured wallpapers/themes (or choose your own) and you're done; and before you know it you'll be posting those sweet screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/). Because that's why we're really here, right?
 <br>
 
 ## Installation
