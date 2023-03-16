@@ -45,9 +45,12 @@ dd if=arcolinuxd-v23.03.01-x86_64.iso of=/dev/sdb
 3. Follow the ArcoLinuxD install directions at [www.arcolinuxd.com](https://www.arcolinuxd.com/installation/) or [watch this video](https://www.youtube.com/watch?v=B6TpyG2tIV0) for a walkthrough of the ArcoLinuxD base install process.
 <br>
 
-4. After install, update the system:
+4. After install, update the system and install `feh` and `python-pywal`:
 ```
 sudo pacman -Syyu
+```
+```
+sudo pacman -S feh python-pywal
 ```
 <br>
 
@@ -71,12 +74,17 @@ sudo reboot now
 
 Adding a custom wallpaper and corresponding colorscheme is simple with RiceBox.
 
-1. To generate a custom colorscheme based on your wallpaper, install `feh` and `python-pywal` and run `wal`:
+1. To install a preconfigure wallpaper and theme simply download and run:
 ```
-sudo pacman -S python-pywal feh
+wget rbtheme.sh
 ```
 ```
-wal -i /path/to/wallpaper.jpg
+rbtheme [1-10] # replace [1-10] with a number
+```
+
+2. To install your own wallpaper and corresponding theme, run:
+```
+wal -i /path/to/wallpaper.img
 ```
 <br>
 
