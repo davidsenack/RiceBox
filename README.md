@@ -86,6 +86,10 @@ rbtheme [1-10] # replace [1-10] with a number
 ```
 wal -i /path/to/wallpaper.img
 ```
+3. Additionally, I recommend installing [Oh My Zsh](https://ohmyz.sh/):
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
 <br>
 
 ## Keybindings
