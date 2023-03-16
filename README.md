@@ -74,7 +74,7 @@ sudo reboot now
 
 Adding a custom wallpaper and corresponding colorscheme is simple with RiceBox.
 
-1. To install a preconfigure wallpaper and theme simply download and run:
+1. To install a preconfigured wallpaper and theme simply download the installer script and run:
 ```
 wget rbtheme.sh
 ```
@@ -82,7 +82,7 @@ wget rbtheme.sh
 rbtheme [1-10] # replace [1-10] with a number
 ```
 
-2. To install your own wallpaper and corresponding theme, run:
+2. Or, to install your own wallpaper and corresponding theme, run:
 ```
 wal -i /path/to/wallpaper.img
 ```
