@@ -23,9 +23,9 @@
 
 Don't want to deal with installing [Arch Linux](https://archlinux.org/)? Don't want to spend [forever configuring](https://www.youtube.com/watch?v=gCRzng7LsQI) every little aspect of your Linux build? Want to post screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/)? Then RiceBox is for you! 
 
-RiceBox is an easy to install linux operating system (well, technically a set of configuration scripts on top of an OS). Built on [ArcoLinux](https://arcolinux.com/) (a derivative of [Arch](https://archlinux.org/)) and configured using [Luke Smith's Auto-Rice Bootstrapping Scripts (LARBS)](https://larbs.xyz/), RiceBox is almost entirely the work of other people. But I'm lazy and don't want to reinvent the wheel (read: reinstall and configure Arch for the hunderdth time), so here we are.
+RiceBox is an easy to install Linux operating system (well, technically a set of configuration scripts on top of an OS). Built on [ArcoLinux](https://arcolinux.com/) (a derivative of [Arch](https://archlinux.org/)) and configured using [Luke Smith's Auto-Rice Bootstrapping Scripts (LARBS)](https://larbs.xyz/), RiceBox is almost entirely the work of other people. But I'm lazy and don't want to reinvent the wheel.
 
-So, what's the point of all of this? I grew tired of installing various Linux distros from the ground up and spending hours configuring everything. It's fun for a while but I just want a system that works, and has some advanced workflow options preconfigured. Sure, I could just save my dotfiles to Github or something like that, but I wanted something even more simple. Something everyone could use. Something I could use to post those sweet screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/). Because that's why we're really here, right?
+So, what's the point of all of this? I grew tired of installing various Linux distros from the ground up and spending hours configuring everything. It's fun for a while, but I just want a system that works and has some advanced workflow options preconfigured. Sure, I could just save my dotfiles to Github or something like that, but I wanted something even more simple. Something everyone could use. Something I could use to post those sweet screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/). Because that's why we're really here, right?
 <br>
 
 ## Installation
