@@ -215,6 +215,12 @@ are based on their exact times.
 - [Arch Linux Wiki](https://wiki.archlinux.org/)
 - [Upgrading Arch/Arco](https://wiki.archlinux.org/title/System_maintenance#Upgrading_the_system)
 
+### Additional Software 
+
+- [OhMyZsh]
+- [Pywal]
+- [feh]
+
 ### Misc.
 
 - [r/unixporn](https://www.reddit.com/r/unixporn/)
