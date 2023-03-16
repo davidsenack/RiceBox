@@ -217,9 +217,9 @@ are based on their exact times.
 
 ### Additional Software 
 
-- [OhMyZsh]
-- [Pywal]
-- [feh]
+- [Oh My Zsh](https://ohmyz.sh/)
+- [Pywal](https://github.com/dylanaraps/pywal)
+- [feh](https://wiki.archlinux.org/title/Feh)
 
 ### Misc.
 
