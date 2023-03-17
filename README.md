@@ -47,7 +47,6 @@ RiceBox is an easy to install Linux operating system (well, technically a set of
 
 So, what's the point of all this? Well, I'm tired. I no longer wish to spend hours configuring my system. I have better things to do. I want a system that is easy to install, configure, and customize. Sure, I'll edit a few files and install a few programs, but the work is largely done, and I like that. I hope you do too!
 
-Lastly, if you're hesitent to try RiceBox, just think about TUS (Time to Unixporn Screeshots). I'd guess RiceBox's TUS is generally under an hour for most users, and maybe under 30 minutes for power users. And posting screenshots to r/unixporn is why we're really here, right?
 <br>
 
 ## Themes
