@@ -35,8 +35,8 @@ So, what's the point of all of this? I grew tired of installing various Linux di
 ![Arch Purple Desktop](screenshots/archpurple_desktop.png)
 
 ### X-Ray
-![X-ray Desktop](screenshots/archpurple_desktop.png)
-![X-ray Desktop](screenshots/archpurple_apps.png)
+![X-ray Desktop](screenshots/xray_desktop.png)
+![X-ray Desktop](screenshots/xray_apps.png)
 
 ### Forest
 ![Forest Desktop](screenshots/forest_desktop.png)
