@@ -31,15 +31,49 @@ So, what's the point of all of this? I grew tired of installing various Linux di
 ## Themes
 
 ### Arch Purple
-![Purple Arch Screenshot](screenshots/pic-full-230316-2327-55.png)
-<br>
-![Purple Arch Screenshot 2](screenshots/pic-full-230316-2328-22.png)
-<br>
+![Arch Purple Desktop](screenshots/archpurple_desktop.png)
+![Arch Purple Desktop](screenshots/archpurple_desktop.png)
+
+### X-Ray
+![X-ray Desktop](screenshots/archpurple_desktop.png)
+![X-ray Desktop](screenshots/archpurple_apps.png)
+
+### Forest
+![Forest Desktop](screenshots/forest_desktop.png)
+![Forest Desktop](screenshots/forest_apps.png)
+
+### Rust
+![Rust Desktop](screenshots/rust_desktop.png)
+![Rust Desktop](screenshots/rust_apps.png)
+
+### Pink Japan
+![Pink Japan Desktop](screenshots/pinkjp_desktop.png)
+![Pink Japan Desktop](screenshots/pinkjp_apps.png)
+
+### Nah
+![Nah Desktop](screenshots/nah_desktop.png)
+![Nah Desktop](screenshots/nah_apps.png)
+
+### Keycap
+![Keycap Desktop](screenshots/keycap_desktop.png)
+![Keycap Desktop](screenshots/keycap_apps.png)
+
+### I Use Arch BTW
+![I Use Arch BTW Desktop](screenshots/iusearchbtw_desktop.png)
+![I Use Arch BTW Desktop](screenshots/iusearchbtw_apps.png)
+
+### Space
+![Space Desktop](screenshots/space_desktop.png)
+![Space Desktop](screenshots/space_apps.png)
 
 ### Arch
-![Arch Screenshot](screenshots/pic-full-230316-2326-26.png)
-![Arch Screenshot](screenshots/pic-full-230316-2327-26.png)
-<br>
+![Arch Desktop](screenshots/arch_desktop.png)
+![Arch Desktop](screenshots/arch_apps.png)
+
+### Streets
+![Streets Desktop](screenshots/streets_desktop.png)
+![Streets Desktop](screenshots/streets_apps.png)
+
 
 ## Installation
 
