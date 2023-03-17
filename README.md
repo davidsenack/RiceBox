@@ -32,10 +32,13 @@ So, what's the point of all of this? I grew tired of installing various Linux di
 
 ### Arch Purple
 ![Purple Arch Screenshot](screenshots/pic-full-23016-2327-55.png)
+<br>
 ![Purple Arch Screenshot 2](screenshots/pic-full-23016-2328-22.png)
+<br>
 
 ### Arch
 ![Arch Screenshot](screenshots/pic-full-23016-2326-26.png)
+<br>
 ![Arch Screenshot](screenshots/pic-full-230316-2327-26.png)
 <br>
 
