@@ -1,6 +1,6 @@
 # RiceBox
 
-![A beautiful ArcoLARB screenshot](img/pic-full-230315-0834-54.png)
+![A beautiful RiceBox desktop](screenshots/keycap_apps.png)
 <br>
 
 ## Table of Contents
@@ -34,7 +34,7 @@ So, what's the point of all of this? I grew tired of installing various Linux di
 
 ### Arch Purple
 ![Arch Purple Desktop](screenshots/archpurple_desktop.png)
-![Arch Purple Desktop](screenshots/archpurple_desktop.png)
+![Arch Purple Desktop](screenshots/archpurple_apps.png)
 
 ### X-Ray
 ![X-ray Desktop](screenshots/xray_desktop.png)
