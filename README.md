@@ -21,11 +21,22 @@
 
 ## Introduction
 
-Don't want to deal with installing [Arch Linux](https://archlinux.org/)? Don't want to spend [forever configuring](https://www.youtube.com/watch?v=gCRzng7LsQI) every little aspect of your Linux build? Want to post screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/)? Then RiceBox is for you! 
+Don't want to deal with installing [Arch Linux](https://archlinux.org/)? Don't want to spend [forever configuring](https://www.youtube.com/watch?v=gCRzng7LsQI) every little aspect of your Linux build? Want to post screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/)? Then RiceBox is for you!
 
 RiceBox is an easy to install Linux operating system (well, technically a set of configuration scripts on top of an OS). Built on [ArcoLinux](https://arcolinux.com/) (a derivative of [Arch](https://archlinux.org/)) and configured using [Luke Smith's Auto-Rice Bootstrapping Scripts (LARBS)](https://larbs.xyz/), RiceBox is almost entirely the work of other people. But I'm lazy and don't want to reinvent the wheel.
 
 So, what's the point of all of this? I grew tired of installing various Linux distros from the ground up and spending hours configuring everything. It's fun for a while, but I just want a system that works and has some advanced workflow options preconfigured. Sure, I could just save my dotfiles to Github or something like that, but I wanted something even more simple. Something everyone could use. Something I could use to post those sweet screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/). Because that's why we're really here, right?
+<br>
+
+## Themes
+
+### Arch Purple
+![Purple Arch Screenshot](screenshots/pic-full-23016-2327-55.png)
+![Purple Arch Screenshot 2](screenshots/pic-full-23016-2328-22.png)
+
+### Arch
+![Arch Screenshot](screenshots/pic-full-23016-2326-26.png)
+![Arch Screenshot](screenshots/pic-full-230316-2327-26.png)
 <br>
 
 ## Installation
@@ -36,7 +47,7 @@ wget https://sourceforge.net/projects/arcolinux/files/ArcoLinuxD/arcolinuxd-v23.
 ```
 <br>
 
-2. Write the iso image to a bootable media device. In this case, we'll be using the Linux utility `dd`. Make sure to substitute `of=/dev/sdb` with the correct block device! 
+2. Write the iso image to a bootable media device. In this case, we'll be using the Linux utility `dd`. Make sure to substitute `of=/dev/sdb` with the correct block device!
 ```
 dd if=arcolinuxd-v23.03.01-x86_64.iso of=/dev/sdb
 ```
@@ -99,23 +110,23 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ## Keybindings
 
-Default keybindings per Luke's Auto-Ricing Bootloader Script. Checkout [LARBS docs](https://larbs.xyz/larbs-dwm.pdf) for more info. 
+Default keybindings per Luke's Auto-Ricing Bootloader Script. Checkout [LARBS docs](https://larbs.xyz/larbs-dwm.pdf) for more info.
 
 ### DWM Commands
 
 - `Mod+Enter` – Spawn terminal (the default terminal is st; run man st for more.)
-- `Mod+q` – Close window 
-- `Mod+d` – dmenu (For running commands or programs without shortcuts) 
-- `Mod+j/k` – Cycle thru windows by their stack order 
+- `Mod+q` – Close window
+- `Mod+d` – dmenu (For running commands or programs without shortcuts)
+- `Mod+j/k` – Cycle thru windows by their stack order
 - `Mod+Space` – Make selected window the master (or switch master with 2nd)
-- `Mod+h/l` – Change width of master window 
-- `Mod+z/x` – Increase/decrease gaps (may also hold Mod and scroll mouse) 
-- `Mod+a` – Toggle gaps 
-- `Mod+A` – Gaps return to default values (may also hold Mod and middle click) 
-- `Mod+Shift+Space` – Make a window float (move and resize with Mod+left/right click). 
-- `Mod+s` – Make/unmake a window “sticky” (follows you from tag to tag) 
-- `Mod+b` – Toggle statusbar (may also middle click on desktop) 
-- `Mod+v` – Jump to master window 
+- `Mod+h/l` – Change width of master window
+- `Mod+z/x` – Increase/decrease gaps (may also hold Mod and scroll mouse)
+- `Mod+a` – Toggle gaps
+- `Mod+A` – Gaps return to default values (may also hold Mod and middle click)
+- `Mod+Shift+Space` – Make a window float (move and resize with Mod+left/right click).
+- `Mod+s` – Make/unmake a window “sticky” (follows you from tag to tag)
+- `Mod+b` – Toggle statusbar (may also middle click on desktop)
+- `Mod+v` – Jump to master window
 <br>
 
 ### Window Layouts
@@ -211,7 +222,7 @@ are based on their exact times.
 - `Mod+ScrollLock` – Toggle screenkey (if installed) to show keypresses
 <br>
 
-## Links 
+## Links
 
 ### LARBS
 
@@ -232,7 +243,7 @@ are based on their exact times.
 - [Arch Linux Wiki](https://wiki.archlinux.org/)
 - [Upgrading Arch/Arco](https://wiki.archlinux.org/title/System_maintenance#Upgrading_the_system)
 
-### Additional Software 
+### Additional Software
 
 - [Oh My Zsh](https://ohmyz.sh/)
 - [Pywal](https://github.com/dylanaraps/pywal)
@@ -241,5 +252,3 @@ are based on their exact times.
 ### Misc.
 
 - [r/unixporn](https://www.reddit.com/r/unixporn/)
-
- 
