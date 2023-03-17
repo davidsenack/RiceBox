@@ -32,6 +32,11 @@
     - [Audio](#Audio)
     - [Recording](#Recording)
 7. [Links](#Links)
+	- [LARBS](#LARBS)
+	- [ArcoLinux](#ArcoLinux)
+	- [Arch Linux](#Arch-Linux)
+	- [Additional Software](#Additional-Software)
+	- [Misc.](#Misc.)
 <br>
 
 ## Introduction
