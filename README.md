@@ -6,9 +6,11 @@
 ## Table of Contents
 
 1. [Introduction](#Introduction)
-2. [Installation](#Installation)
-3. [Post-Install](#Post-Install(Optional))
-4. [Keybindings](#Keybindings)
+2. [Themes](#Themes)
+	1. [Arch Purple](#ArchPurple)
+4. [Installation](#Installation)
+5. [Post-Install](#Post-Install(Optional))
+6. [Keybindings](#Keybindings)
     1. [Basic Commands](#BasicCommands)
     2. [Window Layouts](#WindowLayouts)
     3. [Basic Programs](#BasicPrograms)
@@ -16,7 +18,7 @@
     5. [System](#System)
     6. [Audio](#Audio)
     7. [Recording](#Recording)
-5. [Links](#Links)
+7. [Links](#Links)
 <br>
 
 ## Introduction
