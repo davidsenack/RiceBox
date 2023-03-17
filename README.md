@@ -43,9 +43,11 @@
 
 Don't want to deal with installing [Arch Linux](https://archlinux.org/)? Don't want to spend [forever configuring](https://www.youtube.com/watch?v=gCRzng7LsQI) every little aspect of your Linux build? Want to post screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/)? Then RiceBox is for you!
 
-RiceBox is an easy to install Linux operating system (well, technically a set of configuration scripts on top of an OS). Built on [ArcoLinux](https://arcolinux.com/) (a derivative of [Arch](https://archlinux.org/)) and configured using [Luke Smith's Auto-Rice Bootstrapping Scripts (LARBS)](https://larbs.xyz/), RiceBox is almost entirely the work of other people. But I'm lazy and don't want to reinvent the wheel.
+RiceBox is an easy to install Linux operating system (well, technically a set of configuration scripts on top of an OS). Built on [ArcoLinux](https://arcolinux.com/) (a derivative of [Arch](https://archlinux.org/)) and configured using [Luke Smith's Auto-Rice Bootstrapping Scripts (LARBS)](https://larbs.xyz/), RiceBox is almost entirely the work of other people. But I'm lazy and didn't want to reinvent the wheel.
 
-So, what's the point of all of this? I grew tired of installing various Linux distros from the ground up and spending hours configuring everything. It's fun for a while, but I just want a system that works and has some advanced workflow options preconfigured. Sure, I could just save my dotfiles to Github or something like that, but I wanted something even more simple. Something everyone could use. Something I could use to post those sweet screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/). Because that's why we're really here, right?
+So, what's the point of all this? Well, I'm tired. I no longer wish to spend hours configuring my system. I have better things to do. I want a system that is easy to install, configure, and customize. Sure, I'll edit a few files and install a few programs, but the work is largely done, and I like that. I hope you do too!
+
+Lastly, if you're hesitent to try RiceBox, just think about TUS (Time to Unixporn Screeshots). I'd guess RiceBox's TUS is generally under an hour for most users, and maybe under 30 minutes for power users. And posting screenshots to r/unixporn is why we're really here, right?
 <br>
 
 ## Themes
