@@ -7,7 +7,7 @@
 
 1. [Introduction](#Introduction)
 2. [Themes](#Themes)
-	1. [Arch Purple](#Arch Purple)
+	1. [Arch Purple](#'Arch Purple')
 4. [Installation](#Installation)
 5. [Post-Install](#Post-Install(Optional))
 6. [Keybindings](#Keybindings)
