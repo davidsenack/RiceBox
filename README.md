@@ -9,7 +9,10 @@
 2. [Themes](#Themes)
 	1. [Arch Purple](#Arch-Purple)
 4. [Installation](#Installation)
-5. [Post-Install](#Post-Install(Optional))
+	1. [ArcoLinux Install](#ArcoLinux-Install)
+	2. [LARBS Prerequesites](#LARBS-Prerequesites)
+	3. [LARBS Install](#LARBS-Install)
+	4. [Themes Install](#Themes-Install)
 6. [Keybindings](#Keybindings)
     1. [Basic Commands](#Basic-Commands)
     2. [Window Layouts](#Window-Layouts)
@@ -79,6 +82,7 @@ So, what's the point of all of this? I grew tired of installing various Linux di
 
 ## Installation
 
+### ArcoLinux Install
 1. Download the ArcoLinuxD iso image:
 ```
 wget https://sourceforge.net/projects/arcolinux/files/ArcoLinuxD/arcolinuxd-v23.03.01-x86_64.iso/download
@@ -94,7 +98,8 @@ dd if=arcolinuxd-v23.03.01-x86_64.iso of=/dev/sdb
 3. Follow the ArcoLinuxD install directions at [www.arcolinuxd.com](https://www.arcolinuxd.com/installation/) or [watch this video](https://www.youtube.com/watch?v=B6TpyG2tIV0) for a walkthrough of the ArcoLinuxD base install process.
 <br>
 
-4. After install, update the system and install `feh` and `python-pywal`:
+### LARBS-Prerequesites
+1. After install, update the system and install `feh` and `python-pywal`:
 ```
 sudo pacman -Syyu
 ```
@@ -103,7 +108,8 @@ sudo pacman -S feh python-pywal
 ```
 <br>
 
-5. Install [Luke's Auto-Rice Bootstrapping Scripts (LARBS)](https://larbs.xyz). Simply download and run the script and follow the instructions in the installer:
+### LARBS Install
+1. Install [Luke's Auto-Rice Bootstrapping Scripts (LARBS)](https://larbs.xyz). Simply download and run the script and follow the instructions in the installer:
 
 ```
 curl -LO larbs.xyz/larbs.sh
@@ -113,37 +119,19 @@ sh larbs.sh
 ```
 <br>
 
-6. Reboot the system:
+2. Reboot the system:
 ```
 sudo reboot now
 ```
 <br>
 
-## Post-Install (Optional)
-
-### Wallpapers and Colorthemes
+### Themes Install
 Adding a custom wallpaper and corresponding colorscheme is simple with RiceBox.
 
-1. To install a preconfigured wallpaper and theme simply download the installer script and run:
+1. To install one of the preconfigured themes, simply download the corresponding wallpaper and run (or run the same command specifying your own wallpaper):
 ```
-wget rbtheme.sh
+wal -i /path/to/wallpaper.jpg
 ```
-```
-rbtheme [1-10] # replace [1-10] with a number
-```
-
-2. Or, to install your own wallpaper and corresponding theme, run:
-```
-wal -i /path/to/wallpaper.img
-```
-<br>
-
-### Oh My Zsh (Custom Zsh Configuration)
-Additionally, I recommend installing [Oh My Zsh](https://ohmyz.sh/):
-```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-```
-
 <br>
 
 ## Keybindings
