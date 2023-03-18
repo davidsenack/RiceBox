@@ -40,13 +40,19 @@
 <br>
 
 ## Introduction
-
+<!---
 Don't want to deal with installing [Arch Linux](https://archlinux.org/)? Don't want to spend [forever configuring](https://www.youtube.com/watch?v=gCRzng7LsQI) every little aspect of your Linux build? Want to post screenshots to [r/unixporn](https://www.reddit.com/r/unixporn/)? Then RiceBox is for you!
 
 RiceBox is an easy to install Linux operating system (well, technically a set of configuration scripts on top of an OS). Built on [ArcoLinux](https://arcolinux.com/) (a derivative of [Arch](https://archlinux.org/)) and configured using [Luke Smith's Auto-Rice Bootstrapping Scripts (LARBS)](https://larbs.xyz/), RiceBox is almost entirely the work of other people. But I'm lazy and didn't want to reinvent the wheel.
 
 So, what's the point of all this? Well, I'm tired. I no longer wish to spend hours configuring my system. I have better things to do. I want a system that is easy to install, configure, and customize. Sure, I'll edit a few files and install a few programs, but the work is largely done, and I like that. I hope you do too!
+-->
 
+Welcome to Rice Box, a software project that brings together the power and flexibility of ArcoLinux with the ease and convenience of Luke's Auto-Rice Bootstrapping Script (LARBS) configuration tool. Rice Box is designed to simplify the installation of an Arch-like Linux environment, with minimal configuration required from the user.
+
+With Rice Box, you can quickly and easily install a fully functional system that includes dwm, dwmblocks, st terminal, zsh, and sane configuration defaults, as well as some preconfigured themes. This means that you can get up and running with a sleek and efficient Linux environment in no time.
+
+Whether you are a seasoned Linux user looking for a streamlined installation process, or a newcomer to the world of open source software, Rice Box is an excellent choice. It is designed to provide a simple, yet powerful solution for anyone who wants to experience the power and flexibility of Arch Linux without the hassle of a complex setup process.
 <br>
 
 ## Themes
